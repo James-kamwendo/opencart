@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.799);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+nav div {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+nav div #cart-icon-span {
+    background: rgba(220, 220, 220, 0.741);
+    border-radius: 50rem;
+    padding: .3rem .7rem;
+}
+
+#cart-icon {
+    position: relative;
+}
+
+#cart-indicator {
+    position: absolute;
+    top: 0;
+    right: -3px;
+    width: 10px;
+    height: 10px;
+    background-color: tomato;
+    color: white;
+    border-radius: 50%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+
+nav div#middle {
+    gap: 6rem;
+}
+
+.form-container {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.form-container form {
+    width: 50%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.form-container form input {
+    padding: .5rem;
+}
+
+.form-container form input
+ {
+    margin: .4rem 0;
+}
+
+.form-container form input#email {
+    width: 100%;
+}
+
+#name,
+#phone,
+#password {
+    width: 100%;
+
+}
+
+form button {
+    background: tomato;
+    color: white;
+    width: 104%;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: .8rem;
+    margin-top: 2rem;
+}
