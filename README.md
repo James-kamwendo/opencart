@@ -24,7 +24,7 @@ If you found this repo helpful, please give it a (⭐). Thank you!
 
 Online Demo: [opencart-fakestore](https://opencart-fakestore.000webhostapp.com/)
 
-<img src="homepage.jpeg" alt="OTickets - Screenshot" width="100%">
+![OpenCart Store](https://github.com/James-kamwendo/opencart/blob/master/opencart-fs.gif)
 
 <a href="#table-of-contents" title="Go back to the table of contents">
 ⬆️ Go back to the table of contents
