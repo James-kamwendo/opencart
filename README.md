@@ -22,7 +22,7 @@ If you found this repo helpful, please give it a (⭐). Thank you!
 
 ## Demo
 
-Online Demo: [https://opencart-fakestore.000webhostapp.com/](https://opencart-fakestore.000webhostapp.com/)
+Online Demo: [opencart-fakestore](https://opencart-fakestore.000webhostapp.com/)
 
 <img src="homepage.jpeg" alt="OTickets - Screenshot" width="100%">
 
