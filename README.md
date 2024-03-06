@@ -13,7 +13,7 @@ If you found this repo helpful, please give it a (⭐). Thank you!
   - [Frontend](#frontend)
   - [Backend](#backend)
   - [Tools](#tools)
-- [CHALLENGES FACED](#challenges-faced)
+- [Challenges Faced](#challenges-faced)
 - [Author](#author)
 - [Contributing](#contributing)
 - [License](#license)
@@ -82,7 +82,7 @@ OpenCart Store has been designed with the user in mind, as such the UI was made 
 ⬆️ Go back to the table of contents
 </a>
 
-## CHALLENGES FACED
+## Challenges Faced
 
 OpenCart Store has been an interesting simple project to do, but during implementation I faced the following challenges.
 
