@@ -27,7 +27,7 @@ Online Demo: [opencart-fakestore](https://opencart-fakestore.000webhostapp.com/)
 <img src="homepage.jpeg" alt="OTickets - Screenshot" width="100%">
 
 <a href="#table-of-contents" title="Go back to the table of contents">
-⬆️
+⬆️ Go back to the table of contents
 </a>
 
 ## Features and Components
@@ -40,7 +40,7 @@ Online Demo: [opencart-fakestore](https://opencart-fakestore.000webhostapp.com/)
 - And more...
 
 <a href="#table-of-contents" title="Go back to the table of contents">
-⬆️
+⬆️ Go back to the table of contents
 </a>
 
 ## Design Decisions
@@ -56,7 +56,7 @@ OpenCart Store has been designed with the user in mind, as such the UI was made 
 - The cart icon for toggling the shopping cart gives a choice for the user to see the cart when the user wants to. 
 
 <a href="#table-of-contents" title="Go back to the table of contents">
-⬆️
+⬆️ Go back to the table of contents
 </a>
 
 ## Languages and Tools
@@ -71,7 +71,7 @@ OpenCart Store has been designed with the user in mind, as such the UI was made 
 
 ### Backend
 
-- FakeStore API: ["https://fakestoreapi.com/"]("https://fakestoreapi.com/")
+- FakeStore API: [https://fakestoreapi.com/](https://fakestoreapi.com/)
 
 ### Tools
 
@@ -79,7 +79,7 @@ OpenCart Store has been designed with the user in mind, as such the UI was made 
 - GitHub
 
 <a href="#table-of-contents" title="Go back to the table of contents">
-⬆️
+⬆️ Go back to the table of contents
 </a>
 
 ## CHALLENGES FACED
@@ -98,7 +98,7 @@ OpenCart Store has been an interesting simple project to do, but during implemen
 | GitHub   | [/james-kamwendo](https://github.com/james-kamwendo)         |
 
 <a href="#table-of-contents" title="Go back to the table of contents">
-⬆️
+⬆️ Go back to the table of contents
 </a>
 
 ## Contributing
